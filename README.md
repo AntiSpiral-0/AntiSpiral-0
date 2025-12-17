@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Yassine
-- 👀 I’m interested in AI and Fullstacking
-- 🌱 I’m currently learning Fullstack
-- 💞️ I’m looking to collaborate : still a work in progress but its a fullstack project with an llm chatbot
+- :) I just started my own game studio "SpiralHead Studios"
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently Game Design and Graphics to fully round my skills with programming for future game development
+- 💞️ I’m looking for experience in game design/development (Internship, Training)
 - 📫 How to reach me : yassine.ben.thayer.prv@gmail.com
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: I love Warhammer 40k
