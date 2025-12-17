@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Fullstacking
 - 🌱 I’m currently learning Fullstack
 - 💞️ I’m looking to collaborate : still a work in progress but its a fullstack project with an llm chatbot
-- 📫 How to reach me : yassine.ben.thayer.prv@gmail.com\ 0700418306
+- 📫 How to reach me : yassine.ben.thayer.prv@gmail.com
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: I love Warhammer 40k
 <!---
