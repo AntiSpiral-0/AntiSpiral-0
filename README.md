@@ -1,7 +1,6 @@
-- 👋 Hi, I'm Yassine
-- :) I just started my own game studio "SpiralHead Studios"
+- 👋 Hi, I'm Yassine and I just started my own game studio "SpiralHead Studios"
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently Game Design and Graphics to fully round my skills with programming for future game development
+- 🌱 I’m currently studying Game Design and Graphics to fully round my skills with programming for future game development
 - 💞️ I’m looking for experience in game design/development (Internship, Training)
 - 📫 How to reach me : yassine.ben.thayer.prv@gmail.com
 - 😄 Pronouns: he\him
